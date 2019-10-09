@@ -1,8 +1,5 @@
 language: ruby
 
-go:
-- "1.12"
-
 cache:
   directories:
   - $HOME/protobuf
